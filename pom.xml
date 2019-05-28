@@ -25,5 +25,6 @@
         <module>04-template-method</module>
         <module>05-build</module>
         <module>06-proxy</module>
+        <module>07-prototype</module>
     </modules>
 </project>

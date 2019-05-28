@@ -7,3 +7,10 @@ java 设计模式   参考《设计模式之禅 第二版》
 >03-abstract-factory 抽象工厂模式
 >
 >04-template-method 模板方法模式
+>
+>05-build 建造者模式
+>
+>06-proxy 代理模式
+>
+>07-prototype 原型模式
+>
