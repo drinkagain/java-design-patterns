@@ -13,5 +13,6 @@
         <module>02-factory-method</module>
         <module>03-abstract-factory</module>
         <module>04-template-method</module>
+        <module>05-build</module>
     </modules>
 </project>

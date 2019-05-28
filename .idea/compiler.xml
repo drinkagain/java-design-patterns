@@ -10,8 +10,11 @@
         <module name="01-singleton" />
         <module name="03-abstract-factory" />
         <module name="04-template-method" />
+        <module name="05-build" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="1.8" />
+    <bytecodeTargetLevel target="1.8">
+      <module name="04-template-method (1)" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
