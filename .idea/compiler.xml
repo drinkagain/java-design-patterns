@@ -13,6 +13,7 @@
         <module name="01-singleton" />
         <module name="06-proxy" />
         <module name="08-mediator" />
+        <module name="09-command" />
         <module name="04-template-method" />
       </profile>
     </annotationProcessing>

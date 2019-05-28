@@ -27,5 +27,6 @@
         <module>06-proxy</module>
         <module>07-prototype</module>
         <module>08-mediator</module>
+        <module>09-command</module>
     </modules>
 </project>
