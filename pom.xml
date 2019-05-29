@@ -29,5 +29,17 @@
         <module>08-mediator</module>
         <module>09-command</module>
         <module>10-chain</module>
+        <module>11-decorator</module>
+        <module>12-strategy</module>
+        <module>13-adapter</module>
+        <module>14-iterator</module>
+        <module>15-composite</module>
+        <module></module>
+        <module></module>
+        <module></module>
+        <module></module>
+        <module></module>
+        <module></module>
+        <module></module>
     </modules>
 </project>
