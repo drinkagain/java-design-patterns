@@ -1,4 +1,4 @@
 # Package Files #
-#.idea
 */target/
 .idea
+*.iml
