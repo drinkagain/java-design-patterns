@@ -39,8 +39,8 @@
         <module>18-memento</module>
         <module>19-visitor</module>
         <module>20-state</module>
-        <module></module>
-        <module></module>
-        <module></module>
+        <module>21-interpreter</module>
+        <module>22-flyweight</module>
+        <module>23-bridge</module>
     </modules>
 </project>
