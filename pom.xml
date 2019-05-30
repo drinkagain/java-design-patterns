@@ -34,10 +34,11 @@
         <module>13-adapter</module>
         <module>14-iterator</module>
         <module>15-composite</module>
-        <module></module>
-        <module></module>
-        <module></module>
-        <module></module>
+        <module>16-observer</module>
+        <module>17-facade</module>
+        <module>18-memento</module>
+        <module>19-visitor</module>
+        <module>20-state</module>
         <module></module>
         <module></module>
         <module></module>
