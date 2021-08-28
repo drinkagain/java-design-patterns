@@ -14,7 +14,7 @@ public class FruitsFactory extends AbstractFruitsFactory {
             return (T) Class.forName(clazz.getName()).newInstance();
         } catch (Exception e) {
             e.printStackTrace();
-            throw new RuntimeException("人种生成有误!");
+            throw new RuntimeException("水果生成有误!");
         }
     }
 }
